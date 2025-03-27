@@ -24,7 +24,7 @@ Este é um sistema simples de caixa de supermercado desenvolvido em C# utilizand
 
 ## Layout
 
-![Projeto]([https://github.com/](https://i.ibb.co/9k48XTvf/imagem-2025-03-26-221820938.png))
+![Projeto](https://i.ibb.co/9k48XTvf/imagem-2025-03-26-221820938.png)
 
 ## Estrutura do Projeto
 
